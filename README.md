@@ -14,5 +14,6 @@
 5. Ready<br>
 
 If you run <code>client.exe</code>, then it will work in the background and if you have specified incorrect data for the type of <b>token</b> and <b>id</b>, then the bot will write to you<br>
+
 Example:
 [ UserName in the Windows ] - Victim Connected

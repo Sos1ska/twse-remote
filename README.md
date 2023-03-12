@@ -1,15 +1,12 @@
 # twse-remote
 
-# Start
-<code>python twse_remote --main</code>
-
 # Need
-<code>pyinstaller</code>, python 3.9+, VK Token, VK Account, <code>vk_api</code>
+<code>pyinstaller</code>, python 3.9+, VK Token, VK Account
 
 # How to use?
 1. Create group in VK and get token<br>
 2. Find out your id to the VK Account<br>
-3. <code>python twse_remote --main</code><br>
+3. twse-remote.exe
 4. Upload <code>client.exe</code> from the <code>build\client.exe</code><br>
 5. Ready<br>
 
